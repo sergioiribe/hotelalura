@@ -1,0 +1,6 @@
+JvmtiExport can_access_local_variables 64
+JvmtiExport can_hotswap_or_post_breakpoint 128
+JvmtiExport can_post_on_exceptions 52
+# -1462560688 ciObject found
+instanceKlass sun/nio/fs/WindowsDirectoryStream$WindowsDirectoryIterator
+compile sun/nio/fs/WindowsDirectoryStream$WindowsDirectoryIterator hasNext ()Z -1 3
